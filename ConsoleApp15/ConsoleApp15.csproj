@@ -42,6 +42,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\BoardSpace.cs" />
+    <Compile Include="Classes\Card.cs" />
+    <Compile Include="Classes\CandyColor.cs" />
+    <Compile Include="Classes\CardDeck.cs" />
+    <Compile Include="Classes\Extensions.cs" />
+    <Compile Include="Classes\Game Board.cs" />
+    <Compile Include="Classes\Game.cs" />
+    <Compile Include="Classes\Players.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
